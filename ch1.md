@@ -1,0 +1,165 @@
+#CHAPTER ONE
+
+##The Size of the Body of Recorded Information
+
+Estimates of the Size As a basis for thinking about procognitive systems, one needs an estimate of how much information there is to
+--cope with. The concepts information measure and in--formational redundancy are subtle; the simplest esti-
+mate needed is not. The simplest estimate needed is the number of alphanumeric characters that would be required to spell out the contents of all the documents in the libraries of the world, each document "type" (as opposed to document "token," or individual copy) being
+considered only once. An adjustment would have to be
+made to take into account pictures and other nonalphanumeric contents. Answers would be determined for such
+questions as, "Does translation from one language to an13
+
+Other create a new document type?" Various subdivisions of the total into parts are of interest. Even with those qualifications, however, the question of the total number of characters in the corpus is fairly simple and direct.
+If a definite number of "bits" is assigned to each alphanumeric character, it is possible to multiply the total number of characters by the number of bits per character and say something like: "There are n bits of recorded information in the world's libraries." Or "It would take n cells of binary storage space to hold one copy of each document in all the world's libraries." The second statement seems preferable to the first. It is not clear, however, that converting from characters to bits offers any advantage other than the adventitious one of reconciling two estimates made in the course of our study.
+During the first few months, a very rough estimate was
+made (Licklider, 1962), based mainly on the work of Bourne (1961) and on the size of the Library of Congress, together with some miscellaneous impressions. The
+first estimate gave 2 · 10^^ characters or (at 5 bits per character) 10^^ bits.* Later, Senders (1963), after a
+much more careful study, estimated that the total hes be-
+tween 3.8 · 10^^ and 3.8 · 10^^ characters or (at 12 bits per character) between 4.6 · 10^^ and 4.6 · 10^^ bits. The difference between the assumptions about exploitation of redundancy in the coding of characters (5 or 6 versus 12 bits per character), together with the roundoff, almost exactly compensates for the difference between the estimates of the number of characters.
+For our purposes, there is no need to resolve such
+=* Six bits per character was the initial assumption. In 6-2 · 10"
+1.2 · 10'^ however, there is an unwarranted appearance of precision.
+We therefore used 5 bits per character as a temporary expedient.
+14
+
+SIZE OF BODY OF RECORDED INFORMATION
+"small" discrepancies. Let us merely average Senders' bounds and conclude that there are roughly 10^^ charac-
+ters and 10^^ bits in the total store. The size of the store is doubling every 15 or 20 years, which makes the current growth rate about 2-10*^ bits per second (Senders,
+1963). We might make the working assumption that
+there will be 2 · 10'^ bits in 1980 and 5 · 10^^ bits in the year 2000.
+If we accept 10^^ bits as the present total, then we may take about 10^^ as the number of bits required to hold all
+of science and technology, and 10^^ for "solid" * science and technology. Then, if we divide science and technol-
+ogy into 100 "fields" and 1000 "subfields," we come out
+with 10^^ bits for a field, on the average, and 10^° bits
+or a billion characters for a subfield.
+To relate the foregoing estimates to common experience, we may start with a printed page. If we assume pages with 100 characters per line and 50 Unes, we have
+5000 characters per page. Then, assuming 200 pages per book, we have 10*^ characters per book. Thus the "solid" literature of a subfield is the equivalent of a thousand books, and the total literature of a subfield is the equivalent of ten thousand books. If one thinks of information theory or psychophysics as a subfield, the figures seem
+not to violate intuition.
+Size of the Corpus versus Capacity of Computer Memories AND Speed of Computer Processors
+One of the main prerequisites for effective organiza-
+--tion of the body of knowledge is if we may anticipate
+* "Solid" is intended to delimit the literature by excluding popularizations, ephemeral items, and contributions from unqualified sources.
+15
+
+INTERACTION WITH RECORDED KNOWLEDGE
+--a conclusion to be developed later to get the corpus,
+either all at once or a large cluster at a time, into a process-
+ible memory. How, then, do the estimates set forth in the foregoing section compare with estimates of the computer's memory size, both present and future? And how do estimates of the computer's processing capabihty compare with estimates of the amount of processing that would have to be done to organize the body of knowledge broadly and deeply?
+Access to information requires time. Usually, two or more different "access times" must be considered. Even if one knows precisely the location of a passage that he wishes to read, it ordinarily takes a relatively large amount of time to get to the beginning of it. Thereafter, one can move from word to word within the passage at a rapid rate. That is to say, initial access time is ordinarily
+much longer than intraserial access time. That is the case for several kinds of computer memory, for example, magnetic tapes, magnetic drums and disks, delay-line memo-
+Aries of all types. few kinds of computer memory, how-
+ever, have only one access time: magnetic-core memo-
+ries, thin-film memories, and certain cryogenic memories. They are called "random-access" memories because one
+may jump around from register to register at random just as fast as he can jump from a register to its nearest neighbor. The access time of widely used random-access
+memories is of the same order as the intraserial access
+time of serial memories, and very much shorter than the
+initial access time of serial memories. If the ratio of the incidence of initial accesses to the incidence of serial accesses is not extremely low, therefore, random-access memories offer an important advantage in speed over serial memories. In the kind of processing that is required
+16
+
+SIZE OF BODY OF RECORDED INFORMATION
+
+to organize the body of knowledge, the incidence of initial
+
+accesses will be high. It is necessary, therefore, to con-
+
+sider random-access memories and serial memories sepa-
+
+rately, keeping it in mind that our purpose may be im-
+
+possible to accomplish as long as the only very large
+
+memories are serial memories.
+
+Fast random-access memories were unknown before
+
+AWorld War II.
+
+hundred 50-bit words is the largest
+
+capacity that existed two decades ago. Even as late as
+1952, when the SAGE System* was being designed, it
+
+was difficult to provide 2000 fast, random-access words
+
+in a single computer mxcmory, and it took the timely in-
+
+vention of the magnetic-core memory a decade ago to
+
+make "semi-automatic air defense" feasible. Now, the
+
+largest random-access memory holds about 130,000
+
+words, which is approaching 10' bits. If the technology
+
+of magnetic thin-film memories is developed during the
+
+next few years in a way that now seems possible, we may
+
+have hundred-million-bit "modules," and several or many
+
+modules per memory, well before 1970.t The brief course of development just summarized does
+
+not provide a firm base for extrapolation. However, the
+
+technology of digital memory is not operating near any
+
+fundamental physical limit, and new departures could
+
+continue to appear once every decade. The size of the
+
+largest fast, random-access memory could continue, on
+
+the average, to double every two years. If memory capac-
+
+ity were to grow at that rate, it would be possible to put
+
+* Semi-Automatic Ground Environment System for Air Defense.
+T" Shortly after the text was written, "bulk core" memories, with 18 million bits per unit, and as many as four units per computer, were
+announced for delivery in 1966. A modern maxim says: "People tend
+to overestimate what can be done in one year and to underestimate what can be done in five or ten years."
+
+17
+
+INTERACTION WITH RECORDED KNOWLEDGE
+all the solid literature of a subfield of science or technol-
+ogy into a single computer memory in 1985. The corresponding date for a field would be 1988 or 1989, and for
+all solid science and technology it would be about 1996. All this refers to fast, random-access digital memory.
+How fast? There is little basis for expecting a marked
+increase in speed (and consequent decrease in access time) in the memories that are specialized toward maxi-
+mizing capacity. Although low-capacity memories may become very much faster, only an optimist would hope
+for access shorter than 0,1 microsecond in the memories discussed in the preceding paragraphs.
+The serial * memories that are of greatest interest in the context of this discussion are disk files and photo-
+graphic memories. In the present state of the art, serial
+memories are much more voluminous than random-access memories. There are now available magnetic disk files that will store more than a billion bits. In testimony before a committee of the House of Representatives in 1963, E. R. Piore of I.B.M. said that his company was working on a trillion-bit photographic memory. For a
+rough rule, one might say that serial memories are ahead of random-access memories in capacity by a factor somewhat greater than 1000, behind random-access memories in initial-access speed by a factor considerably greater
+than 10,000, and almost even with random-access memo-
+ries in speed of intraserial access. Advances in serial-ac-
+cess memory appear to be taking place somewhat more
+--* Disk files and some photographic memories e.g., the "photo--scopic disk" are, from a technical standpoint, not precisely serial;
+rather, they are "cyclic." However, the distinction is not important to the present discussion. Magnetic tapes are serial, but handling tape introduces a third kind of access delay. Both access to a randomly selected tape and access to a randomly selected segment of a given tape are very slow.
+18
+
+SIZE OF BODY OF RECORDED INFORMATION
+rapidly than advances in random-access memory, but extrapolation into the distant future seems even less certain. Nevertheless, it is Hkely that within a few years it will be possible to fit the solid text of a subfield of knowledge into a serial memory. This focuses attention on the question, shall we then be able to process the text in a significant way, or shall we have to wait until we can at any moment achieve fast access to any part of the text?
+Before examining what one should mean by "process-
+--ing the text in a significant way," let us take one more
+look at a technological constraint the constraint on "amount of processing." In computers of the type that are in widespread use today, one processor performs successive operations on the contents of memory. The operations correspond to "instructions" selected from a set, usually larger than 100. The fastest present-day machines execute about a milHon such instructions per second. The most promising technological paths appear to be open as far as 10 million, or perhaps even 100 million, instructions per second. Moreover, the idea of using
+--several or many processors simultaneously "in paral--lel" is under active exploration and development.
+Thus, one can look forward with reasonable confidence to a time when it will be possible to perform tens or hundreds of millions of operations per second upon the corpus of a subfield, or even a field, of the body of knowledge. That prospect supports the assumption, set forth in the introduction, that our thinking and planning need not be, and indeed should not be, limited by literal
+j
+interpretation of the existing technology. Extrapolation,
+I
+' however uncertain, suggests that the basic "mechanical" constraints will disappear: Although the size of the body of knowledge, in linear measure of printed text, is almost
+19
+
+INTERACTION WITH RECORDED KNOWLEDGE
+astronomical (about 100,000,000 miles), although that measure is increasing exponentially, and although the technology that promises to be most helpful to us in mastering knowledge is still young and weak, time strongly favors the technology. The technology, too, is growing exponentially and its growth factor is perhaps 10 times as great as the growth factor of the corpus. Moreover, the technology is not yet near any fundamental physical limits to development. Thus in the present cen-
+tury, we may be technically capable of processing the entire body of knowledge in almost any way we can de-
+scribe; possibly in ten years and probably within twenty,
+we shall be able to command machines to "mull over"
+--separate subfields of the corpus and organize them for
+our use if we can define precisely what "mulling" should mean and specify the kind of organization we
+require.
+20
+
+
