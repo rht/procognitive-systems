@@ -1,3 +1,9 @@
+#LIBRARIES OF THE FUTURE
+
+In progress: ch1-9, references, index
+
+Authored by: J. C. R. Licklider  
+
 From contents.md
 
 #Contents
