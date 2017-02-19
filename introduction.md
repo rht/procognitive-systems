@@ -11,7 +11,7 @@ The "libraries" of the phrase, "libraries of the future," may not be very much l
 The "future," in "libraries of the future," was defined at the outset, in response to a suggestion from the Council, as the year 2000. It is difficult, of course, to think about man's interaction with recorded knowledge at so distant a time. Very great and pertinent advances doubtless can be made during the remainder of this century, both in information technology and in the ways man uses it. Whether very great and pertinent advances will be made, however, depends strongly on how societies and nations set their goals. Moreover, the "system" of man's development and use of knowledge is regenerative. If a strong effort is made to improve that system, then the early results will facilitate subsequent phases of the effort, and so on, progressively, in an exponential crescendo. On the other hand, if intellectual processes and their technological bases are neglected, then goals that could have been achieved will remain remote, and proponents of their achievement will find it difiicult to disprove charges of irresponsibility and autism.
 
 The remoteness of the planning target date, nevertheless, had a desirable influence on our thinking. It made it impossible to accept tacitly the constraints that tend to be imposed upon imagination by the recent course and current trend of technology. It freed us to concentrate
-upon what man would like the nature of his interaction with knowledge to be. That is possibly an important freedom, for extrapolation of the main courses of presentday library science and information technology does not lead to concepts or systems that seem either very desirable or very effective.
+upon what man would like the nature of his interaction with knowledge to be. That is possibly an important freedom, for extrapolation of the main courses of present-day library science and information technology does not lead to concepts or systems that seem either very desirable or very effective.
 
 ##The Role of Schemata
 
@@ -21,7 +21,7 @@ It is not possible, in a summary report, to present a complete inventory of prom
 
 ##Pages, Books, and Libraries
 
-As a medium for the display of information, the printed page is superb. It affords enough resolution to m.eet the eye's demand. It presents enough information to occupy the reader for a convenient quantum of time. It offers great flexibility of font and format. It lets the reader control the mode and rate of inspection. It is small, light, movable, cuttable, clippable, pastable, replicable, disposable, and inexpensive. Those positive attributes all relate, as indicated, to the display function. The tallies that could be made for the storage, organization, and retrieval functions are less favorable.
+As a medium for the display of information, the printed page is superb. It affords enough resolution to meet the eye's demand. It presents enough information to occupy the reader for a convenient quantum of time. It offers great flexibility of font and format. It lets the reader control the mode and rate of inspection. It is small, light, movable, cuttable, clippable, pastable, replicable, disposable, and inexpensive. Those positive attributes all relate, as indicated, to the display function. The tallies that could be made for the storage, organization, and retrieval functions are less favorable.
 
 When printed pages are bound together to make books or journals, many of the display features of the individual pages are diminished or destroyed. Books are bulky and heavy. They contain much more information than the reader can apprehend at any given moment, and the excess often hides the part he wants to see. Books are too expensive for universal private ownership, and they circulate too slowly to permit the development of an efficient public utility. Thus, except for use in consecutive reading -- which is not the modal application in the domain of our study -- books are not very good display devices. In fulfilling the storage function, they are only fair. With respect to retrievability they are poor. And when it comes to organizing the body of knowledge, or even to indexing and abstracting it, books by themselves make no active contribution at all.
 
@@ -35,8 +35,7 @@ At the level of subsystem, we should be prepared to reject the schema of the phy
 
 At the component level, on the other hand, there are few library and documentation schemata that we should wholly reject, and many that we should retain. In addition to the schema of the printed page, we should retain schemata corresponding, for example, to:
 1. Hierarchies of segments of text, such as the hierarchy of character, word, . . . sentence, paragraph, . . . chapter, . . . volume. . . .
-2. The concepts of textual, tabular, graphical, and pic-
-torial information.
+2. The concepts of textual, tabular, graphical, and pictorial information.
 3. Such concepts as title, author, abstract, body, footnote, and list of references.
 4. Such concepts as original article, review article, note, letter, journal, and book. \* (\* footnote: In the sense of classes of information, not physical carriers of information.)
 5. Such concepts as catalogue, index, descriptor, Uniterm, and thesaurus.
