@@ -1,6 +1,6 @@
 #LIBRARIES OF THE FUTURE
 
-In progress: ch4-9, references, index
+In progress: ch6-9, references, index
 
 Authored by: J. C. R. Licklider  
 
