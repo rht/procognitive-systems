@@ -1,75 +1,17 @@
-CHAPTER SEVEN
-A Measure of the Effectiveness of
-Information-Retrieval Systems
-To SOME INFORMATION-RETRIEVAL SYSTEMS, a particularly simple schema is appropriate. The system is a "black
-box" that contains a collection or set of items and that, from time to time, either spontaneously or in response to a request, offers a subset of its contents to one of its sub-
-scribers and withholds the complementary subset. An
-Aitem may be thought of as a document. subscriber may
-be thought of as simply a criterion: to the subscriber, an item is either pertinent or not pertinent. If one considers
---a single item of the collection and focuses his attention
-upon a particular occasion a particular request from
---a subscriber or a particular spontaneous offering by the
-system he sees that the performance of the system may be described simply by placing a tally mark in a two-by-
-two contingency table: 148
+#CHAPTER SEVEN
 
-EFFECTIVENESS OF RETRIEVAL SYSTEMS
+##A Measure of the Effectiveness of Information-Retrieval Systems
 
-EXPLORATIONS IN THE USE OF COMPUTERS
+To SOME INFORMATION-RETRIEVAL SYSTEMS, a particularly simple schema is appropriate. The system is a "black box" that contains a collection or set of items and that, from time to time, either spontaneously or in response to a request, offers a subset of its contents to one of its subscribers and withholds the complementary subset. An item may be thought of as a document. A subscriber may be thought of as simply a criterion: to the subscriber, an item is either pertinent or not pertinent. If one considers a single item of the collection and focuses his attention upon a particular occasion -- a particular request from a subscriber or a particular spontaneous offering by the system -- he sees that the performance of the system may be described simply by placing a tally mark in a two-by-two contingency table:
 
-was advantage taken of the fact that evaluative pro-
+TODO: html table
 
-cedures have been developed for, and found useful in,
+*R* means that the item was retrieved (offered); *&Rmacr*, not retrieved; *P* means that the item was pertinent (or would have proved pertinent if offered); *&Pmacr*, not pertinent. The tally mark indicates that the item in question was retrieved but did not meet the subscriber's criterion of pertinence.
 
-other fields of application (e.g., radar, sonar, psycho-
-physics) in which performance may be summarized in
+It is natural to proceed from examination of the individual case to study of a large sample of cases. One the accumulate tally marks over the sample, counts the marks, and replaces them with numbers, i.e., with absolute frequencies or relative frequencies of occurence. He can say, for example, that the system made a "hit" (retrieved a pertinent item) in 0.40 of the retrievals of individual items, a "miss" (withheld a pertinent item) in 0.20, a "false drop" (retrieved a nonpertinent item) in 0.10, and a "pass" (withheld a nonpertinent item) in 0.30. Note that only two of the relative frequencies are independent, for the sum over the four categories must be unity, and the fraction of the items that meets the subscriber's criterion of pertinence is assumed to be fixed. Note, also, that there has to be some way to ascertain the pertinence or nonpertinence of withheld items.
 
-two-by-two contingency tables. Swets therefore adapted
+Investigating the problem of evaluation of the effectiveness, Swets (1963) found that eight of the ten studies that met his criterion of pertinence reduced the analysis to two-by-two contingency tables. However, in none of the studies was advantage taken of the fact that evaluative procedures have been developed for, and found useful in, other fields of application (e.g., radar, sonar, psychophysics) in which performance may be summarized in two-by-two contingency tables. Swets therefore adapted some of the apparatus of statistical decision theory to the information-retrieval context and proposted a measure of merit, a measure that quantifies the ability of the system to maximize the expected value ("payoff") of a retrieval trial, i.e., of an offering or withholding of an individual item on a particular occasion. The measure takes into account the relative frequency and the utility (value minus cost) of each of the four categories in the two-by-two table. We shall not review here Swets's explanation of its derivation. Let it suffice to say that an assumption of normality of distribution is involved, that the measure is based on maximum-likelihood statistics, and that, given the relative frequencies of hits and false drops in a particular sample, one can read the value of the measure from an available table or graph.
 
-some of the apparatus of statistical decision theory to the information-retrieval context and proposed a measure of
+The measure is simple, convenient, and appropriate. It gives definite meaning to the concept, the "basic discriminating power" of an information-retrieval system. The measure clearly separates discriminating power from mere willingness to yield output, thus avoiding a confusion that has been rife these last several years and that appears to be at the root of many informational difficulties. Moreover, the measure brings with it a well-developed system of procedures that facilitate analysis and interpretation of data.
 
-merit, a measure that quantifies the abiUty of the system
-
-to maximize the expected value ("payoff") of a retrieval
-
-trial, i.e., of an offering or withholding of an individual
-
-item on a particular occasion. The measure takes into
-
-account the relative frequency and the utility (value
-
-minus cost) of each of the four categories in the two-by-
-
-Wetwo table.
-
-shall not review here Swets's explanation
-
-of its derivation. Let it suffice to say that an assumption
-
-of normality of distribution is involved, that the measure
-
-is based on maximum-likelihood statistics, and that, given
-
-the relative frequencies of hits and false drops in a par-
-
-ticular sample, one can read the value of the measure
-
-from an available table or graph.
-
-The measure is simple, convenient, and appropriate. It
-
-gives definite meaning to the concept, the "basic discriminating power" of an information-retrieval system. The measure clearly separates discriminating power from mere
-willingness to yield output, thus avoiding a confusion that has been rife these last several years and that ap-
-pears to be at the root of many informational difficulties.
-Moreover, the measure brings with it a well-developed system of procedures that facilitate analysis and interpre-
-
-tation of data.
-We expect Swets's measure to prove useful in evalua-
-tion of information systems. The main obstacle may lie
-
-150
-
-EFFECTIVENESS OF RETRIEVAL SYSTEMS
-in determination of the pertinence of withheld items. That obstacle is wide. It causes trouble for all the approaches to evaluation of performance in retrieval of information from large collections.
-151
-
-
+We expect Swets's measure to prove useful in evaluation of information systems. The main obstacle may lie in determination of the pertinence of withheld items. That obstacle is wide. It causes trouble for all the approaches to evaluation of performance in retrieval of information from large collections.
