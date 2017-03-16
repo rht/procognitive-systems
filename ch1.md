@@ -1,8 +1,8 @@
-#CHAPTER ONE
+# CHAPTER ONE
 
-##The Size of the Body of Recorded Information
+## The Size of the Body of Recorded Information
 
-###Estimates of the Size
+### Estimates of the Size
 
 As a basis for thinking about procognitive systems, one needs an estimate of how much information there is to cope with. The concepts -- information measure and informational redundancy -- are subtle; the simplest estimate needed is not. The simplest estimate needed is the number of alphanumeric characters that would be required to spell out the contents of all the documents in the libraries of the world, each document "type" (as opposed to document "token," or individual copy) being considered only once. An adjustment would have to be made to take into account pictures and other nonalphanumeric contents. Answers would be determined for such questions as, "Does translation from one language to another create a new document type?" Various subdivisions of the total into parts are of interest. Even with those qualifications, however, the question of the total number of characters in the corpus is fairly simple and direct.
 
@@ -17,7 +17,7 @@ or a billion characters for a subfield.
 
 To relate the foregoing estimates to common experience, we may start with a printed page. If we assume pages with 100 characters per line and 50 lines, we have 5000 characters per page. Then, assuming 200 pages per book, we have 10<sup>6</sup> characters per book. Thus the "solid" literature of a subfield is the equivalent of a thousand books, and the total literature of a subfield is the equivalent of ten thousand books. If one thinks of information theory or psychophysics as a subfield, the figures seem not to violate intuition.
 
-###Size of the Corpus versus Capacity of Computer Memories and Speed of Computer Processors
+### Size of the Corpus versus Capacity of Computer Memories and Speed of Computer Processors
 
 One of the main prerequisites for effective organization of the body of knowledge is -- if we may anticipate a conclusion to be developed later to get the corpus, either all at once or a large cluster at a time, into a processible memory. How, then, do the estimates set forth in the foregoing section compare with estimates of the computer's memory size, both present and future? And how do estimates of the computer's processing capabihty compare with estimates of the amount of processing that would have to be done to organize the body of knowledge broadly and deeply?
 

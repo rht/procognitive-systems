@@ -1,5 +1,5 @@
-#PART I
-##MAN'S INTERACTION WITH RECORDED KNOWLEDGE
+# PART I
+## MAN'S INTERACTION WITH RECORDED KNOWLEDGE
 
 Our examination of concepts and problems in the domain of procognitive systems dealt with four topics:
 1. Information measures of the world's store of knowledge.

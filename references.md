@@ -1,4 +1,4 @@
-#References
+# References
 
 ANDREYEV, N. D., Linguistic Aspects of Translation. Proceedings of the Ninth International Congress of Linguistics, Cambridge, Mass., 1962.
 

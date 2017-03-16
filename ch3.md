@@ -1,6 +1,6 @@
-#CHAPTER THREE
+# CHAPTER THREE
 
-##Information Storage, Organization, and Retrieval
+## Information Storage, Organization, and Retrieval
 
 The purpose of this section is to focus briefly on basic concepts of the field of "storage and retrieval" that seem particulariy relevant to procognitive systems. Some of the ideas of this field have already been mentioned in our example in which documents were retrieved with the aid of descriptors and a thesaurus. We have also illustrated applications of passage-retrieval and question-answering techniques -- techniques that penetrate the covers of documents and deal with sentences and paragraphs or with "ideas" and "facts." Let us now examine those and related techniques a bit more systematically.
 
@@ -8,7 +8,7 @@ The basic unit of knowledge appropriate to our purposes may well be akin to the 
 
 Despite the ready availability of the foregoing concepts, most of the work that has been done in the field of information storage, organization, and retrieval has been based on the simplest of ideas about sets. The next most popular schema, if we count implicit as well as explicit application, has been geometric space. We may organize our examinations of this area, therefore, by considering storage, organization, and retrieval systems based on the following models: (1) sets and subsets, (2) space analogues, (3) functions and relations, (4) predicate calculus, and (5) other formal languages.
 
-###Systems Based on Sets and Subsets
+### Systems Based on Sets and Subsets
 
 In most systems based on the ideas of sets and subsets, the fundamental concepts are set, partition, item, name, term, prescription, storer, organizer, and retriever, and the logical connectives. Although details of the concepts and the names used in referring to the concepts vary considerably from system to system, the same fundamental ideas appear repeatedly.
 
@@ -16,15 +16,15 @@ The items are the things to be stored and retrieved: documents, facts, and so fo
 
 In order to estabhsh a perspective, let us examine briefly, and somewhat abstractly, some familiar retrieval schemes.
 
-####Partitioning by naming
+#### Partitioning by naming
 
 The very simplest retrieval method achieves the partition by naming the elements (or items) of the desired subset. That method is not applicable to such items as sentences and facts that do not have names. Moreover, when the retriever does not know the names of the items he desires, the method does not work even with those items that do have names, such as books and journal articles. Nevertheless, the method and the location-coded cards often used in implementing it are simple and widely used.
 
-####Hierarchical indexing
+#### Hierarchical indexing
 
 If the items have no names, or if the names of desired items are unknown to the retriever, it is necessary to fall back on the use of descriptive terms to specify the desired items. In most term-based systems, either it is assumed that the retriever knows the terms, or glossaries or thesauri listing the legal terms of the system are provided. In a hierarchical system, first the over-all set of items is partitioned by organizers into mutually exclusive and exhaustive first-echelon subsets or categories, and a unique term (sometimes a code digit) is assigned to each. Then each first-echelon subset is partitioned into mutually exclusive and exhaustive second-echelon subsets or categories, and a unique term (or code digit) is assigned to each of them. This process of subdivision is continued until there are as many echelons as can be handled conveniently or until there are only a few items in each subset of the lowest echelon. The retriever in this system merely composes a prescription consisting of one term for each echelon. He makes his way down the branching, rootlike structure of the hierarchy, selecting first the first-echelon subset corresponding to the first-echelon term of his prescription, then the second-echelon subset corresponding to the second-echelon term of his prescription, and so forth. When he gets to the bottom, or to a level at which there are not too many items, he examines the items of the subset he has isolated. In practice, the main trouble with this scheme is a trouble inherent in all serial-decision methods: one mistake anywhere in the series, and the game is lost! Perhaps a more basic difficulty is that knowledge does not seem to be naturally susceptible to hierarchical analysis. For these reasons, storage and retrieval systems that set out to be hierarchical often turn into latticelike systems through nonexclusive categorization and cross referencing.
 
-####Coordinate indexing
+#### Coordinate indexing
 
 The difficulties just mentioned can be avoided by giving up the notion of precedence that orders the hierarchy. Without precedence, all the subsets and all the terms are coordinate. In coordinate indexing systems, the organizers partition the set of items in various premeditated ways and assign a term, not to each subset, but to each partition. The term itself identifies one of the two subsets separated by the partition usually the smaller one. (If negation is used, the negation of the term identifies the other subset. ) The retriever then draws up a prescription consisting of terms joined by logical connectives. Often the logical "and" is the only connective employed. In some systems, use is made also of "or" and "not." The mechanism that fulfills the prescription has to find and deliver the subset of items corresponding to the logical expression. Given, for example, the prescription:
 
@@ -32,11 +32,11 @@ The difficulties just mentioned can be avoided by giving up the notion of preced
 
 the mechanism would retrieve the items characterized by **A** and those characterized by both **B** and **C**, and, in addition, those characterized by **D** but not by **E**. Many commercial and government systems are based on coordinate indexing: e.g., most edge-notched-card systems, the PeekA-Boo Card system, and the descriptor system of the Defense Documentation Center.
 
-####Inverse filing
+#### Inverse filing
 
 The "natural" or "first-thought" way to set up a coordinate-indexing system with cards is to assign a card to each item and then to record the terms appHcable to the item on the card. Second thought, however, may lead to the opposite procedure: assign a card to each term, and record on each card the names or codes of all the items to which the term applies. A file organized the second way is an "inverse" file. Its main advantage is that, since ordinarily there are more items than terms, it requires fewer cards. In the Peek-A-Boo system, each card is divided into many small areas, one for each actual or anticipated item, and an item is associated with a term by punching out the item's area, thus leaving a hole, in the card for the term. When the desired term cards are piled, one on top of another, to form a deck, and are held up to the light, one sees light through the entire deck at the location for each item to which all the terms apply. This is, of course, merely one of several convenient implementations of the logical "and." It illustrates the natural congruence that exists between punched cards and Boolean algebra.
 
-####Hybrid systems
+#### Hybrid systems
 
 Because knowledge has a more complex structure than coordinate indexing can mirror, and still is less perfectly hierarchical than systems based on rootlike branching and exclusive categories must postulate, there have been several efforts to develop hybrid systems that would combine the advantages and avoid the disadvantages of hierarchical and coordinate indexing. One such approach is to employ only a very few echelons of hierarchy and to use coordinate indexing within each echelon. Another is to build a quasi-syntactic structure upon the coordinateindex base by assigning role indicators to the terms. One may distinguish between *R<sub>1</sub>*, wax made by bees, and *R<sub>2</sub>*,
 bees made of wax, for example, by establishing an *ad hoc* two-echelon hierarchy: (a) product, (b) source or constituent. In that case we have:
@@ -49,7 +49,7 @@ Alternatively, one can define the role indicators: *P* = product, *S* = source, 
 **R_1 = wax (C), bees (P)** (LaTeX)
 It seems unlikely, however, that such circumventions will lead to highly sophisticated or truly elegant storage and retrieval systems. The fundamental trouble seems to be that elementary set notation and Boolean algebra are inadequate to express compactly the subtle distinctions and intricate relations involved in a sophisticated representation and organization of the body of knowledge. In saying that, however, one should be sure to acknowledge that storage and retrieval systems based on sets and subsets have a particularly strong congruence with presentday information-processing technology and that, despite their limitations in sophisticated applications, they seem to be capable of achieving a high level of effectiveness in document retrieval and even in the retrieval of relevant passages within documents. That is to say, their shortcomings seem likely not to manifest themselves strongly until an effort is made to deduce or infer consequences from the stored representation of knowledge.
 
-###Space Analogues
+### Space Analogues
 
 The basic notion of topological space analogy is that one item (document, fact, or idea) is the "neighbor" of another item to which it is closely related. Metric space analogy involves the notion of distance in addition to the notion of neighborhood: two items may be close together or far apart, and the distance between them may be analyzed into *n* components corresponding to the *n* dimensions of the space.
 
@@ -61,7 +61,7 @@ Much of our knowledge deals with the physical world, however, and must be indexe
 
 The most promising approach, it seems to us, is to accept the notion that, for many years at least, we shall not achieve a complete integration of knowledge, that we shall have to content ourselves with diverse partial models of the universe. It may not be elegant to base some of the models in geometry, some in logic, and others in natural language, but that may be the most practicable solution.
 
-###Functions and Relations
+### Functions and Relations
 
 WilHams, Barnes, and Kuipers (1962) have described an approach to document retrieval based on analysis of natural-language expressions (such as titles) in terms of arguments and functions. In our study, a similar approach was developed in terms of relations.
 
@@ -108,7 +108,7 @@ As the number of relations and properties grows, the lower-level labels that are
 
 During the last few months of the library study, Marill (1963) developed the idea of relational nets in the direction of a predicate calculus (see Part II). Marill and Raphael are now simulating net structures on a computer and developing programs that will organize and simplify nets.
 
-###Predicate Calculus
+### Predicate Calculus
 
 Much of the research during the second year of the study was devoted to question-answering systems. The system constructed by Black, to be described briefly in Part II, was based on the representation of information in the form of statements in first-order predicate calculus. With the information in that form, and with the aid of computer programs designed to process it, the computer could deduce from its information base answers to various questions stated in the formalism (Black, 1963). We believe this to be a significant development. It demonstrates the advantage of employing a formalism that approaches the sophistication and complexity necessary to represent efficiently the subtleties and intricacies of thought and knowledge.
 
@@ -116,7 +116,7 @@ Two other researches are using predicate calculi in ways somewhat similar to Bla
 
 Two severe practical problems are encountered along the path taken by predicate calculus. First, there is as yet no way to translate automatically from statements in natural language to statements in predicate calculus; the translation must be made by people, few people can do it, and the process is time consuming. Second, a small amount of natural lan^ua^e turns into a lar^e amount of predicate calculus. The first problem is, of course, a basic research problem as well as a practical one. The second problem places its demand upon the information technology.
 
-###Higher-Order Languages
+### Higher-Order Languages
 
 At this stage it seems to be a very good hypothesis that languages of high order are required for compact representation of knowledge, and it seems to be a fairly good hypothesis that such languages are required for efficient processing of knowledge. Even highly complex things can be said in very simple languages. For instance, if there were an element in a set for every possible statement, one could make any statement merely by pointing to its element. However, in low-order languages (such as the language of elements, sets, and Boolean operators) the representation of a complex molecule of knowledge is disproportionately voluminous. Our perception of this matter, though still somewhat nebulous, has led us to a rather firm conviction: that the economic and practical advantages of linguistic sophistication are great, and that the intellectual advantage is even greater.
 

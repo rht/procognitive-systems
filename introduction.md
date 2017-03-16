@@ -1,25 +1,25 @@
-#Introduction
+# Introduction
 
 For two years beginning in November 1961, a small group of engineers and psychologists at Bolt Beranek and Newman Inc. explored "concepts and problems of libraries of the future" under the sponsorship of the Council on Library Resources. This is a summary report of the study. It has two main parts. If the phrases were not so long, the parts would be entitled: (1) Concepts and Problems of Man's Interaction with the Body of Recorded Knowledge, and (2) Explorations in the Use of Computers in Information Storage, Organization, and Retrieval.
 
-##Scope
+## Scope
 
 The "libraries" of the phrase, "libraries of the future," may not be very much like present-day libraries, and the term "library," rooted in "book," is not truly appropriate to the kind of system on which the study focused. We delimited the scope of the study, almost at the outset, to functions, classes of information, and domains of knowledge in which the items of basic interest are not the print or paper, and not the words and sentences themselves -- but the facts, concepts, principles, and ideas that lie behind the visible and tangible aspects of documents. The criterion question for the delimitation was: "Can it be rephrased without significant loss?" Thus we delimited the scope to include only "transformable information." Works of art are clearly beyond that scope, for they suffer even from reproduction. Works of literature are beyond it also, though not as far. Within the scope lie secondary parts of art and literature, most of history, medicine, and law, and almost all of science, technology, and the records of business and government.
 
-##Epoch
+## Epoch
 
 The "future," in "libraries of the future," was defined at the outset, in response to a suggestion from the Council, as the year 2000. It is difficult, of course, to think about man's interaction with recorded knowledge at so distant a time. Very great and pertinent advances doubtless can be made during the remainder of this century, both in information technology and in the ways man uses it. Whether very great and pertinent advances will be made, however, depends strongly on how societies and nations set their goals. Moreover, the "system" of man's development and use of knowledge is regenerative. If a strong effort is made to improve that system, then the early results will facilitate subsequent phases of the effort, and so on, progressively, in an exponential crescendo. On the other hand, if intellectual processes and their technological bases are neglected, then goals that could have been achieved will remain remote, and proponents of their achievement will find it difiicult to disprove charges of irresponsibility and autism.
 
 The remoteness of the planning target date, nevertheless, had a desirable influence on our thinking. It made it impossible to accept tacitly the constraints that tend to be imposed upon imagination by the recent course and current trend of technology. It freed us to concentrate
 upon what man would like the nature of his interaction with knowledge to be. That is possibly an important freedom, for extrapolation of the main courses of present-day library science and information technology does not lead to concepts or systems that seem either very desirable or very effective.
 
-##The Role of Schemata
+## The Role of Schemata
 
 Freedom from constraints imposed by existing concepts and devices, however, is double-edged. According to the most advanced theories of cognition, men think by manipulating, modifying, and combining "schemata." A new concept is achieved, not by creating a new schema ab initio, on a custom basis, but by adapting an old schema or, if necessary, arranging several refurbished schemata into a new, complex structure. If we renounce schemata derived from experience with existing library systems, file rooms, and computer centers, therefore, we have to be careful not to leave ourselves without parts from which to construct new concepts. A guideline for avoiding that predicament is to discard the upper-echelon schemata -- those at the level of system and subsystem and to retain, for possible alteration and reuse, the lower-echelon, component-level schemata.
 
 It is not possible, in a summary report, to present a complete inventory of promising component-level schemata, but it may be helpful to illustrate the idea of discarding schemata at the system and subsystem levels while retaining those at the component level. The illustration will take the form of comments about pages (components), books (subsystems), and libraries (systems).
 
-##Pages, Books, and Libraries
+## Pages, Books, and Libraries
 
 As a medium for the display of information, the printed page is superb. It affords enough resolution to meet the eye's demand. It presents enough information to occupy the reader for a convenient quantum of time. It offers great flexibility of font and format. It lets the reader control the mode and rate of inspection. It is small, light, movable, cuttable, clippable, pastable, replicable, disposable, and inexpensive. Those positive attributes all relate, as indicated, to the display function. The tallies that could be made for the storage, organization, and retrieval functions are less favorable.
 
@@ -42,7 +42,7 @@ At the component level, on the other hand, there are few library and documentati
 
 Although the foregoing constitutes a much abbreviated and perhaps only suggestive discussion of the relation of existing libraries to future procognitive systems, it may serve as an introductory clarification of the notion of selective retention of schemata for use in planning. The same notion is applicable to documentation centers, specialized information storage and retrieval systems, and digital computing centers. A few remarks about digital computing centers will bring this topic to a close.
 
-##The Relevance of Digital Computers
+## The Relevance of Digital Computers
 
 The over-all plan of organization of the typical university or business computing center does not provide a good system schema for our purposes. If one thinks of "computing" in terms of collecting data and writing a computer program, having the data and program punched into cards, delivering the cards to a computer center in the morning, and picking up a pile of "printouts" in the afternoon, and so forth, he is likely to scoff at the idea that the science and technology of computing provide a large fraction of the extant ideas that are relevant to, and promising for, future procognitive systems. On the other hand, if one looks at the echelon below that of the computing center, he finds many promising schemata among the concepts, techniques, and devices. The most valuable are, by and large, the most abstract, and even those that are highly abstract may require much modification to fit into a system schema of the kind that we require. Almost surely, however, some of the information-processing schemata suggested by the following will play a role in shaping future procognitive systems:
 1. Random-access memory,

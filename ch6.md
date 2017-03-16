@@ -1,10 +1,10 @@
-#CHAPTER SIX
+# CHAPTER SIX
 
-##Research on Quantitative Aspects of Files and Text
+## Research on Quantitative Aspects of Files and Text
 
 Two STUDIES by Grignetti (1963a, 1964) deal with quantitative aspects of representations of information in digital memories. The first study concerns the average length of representations of descriptions of documents or, in greater generality, the average length of representations of "terms" (e.g., of descriptors associated with documents). The second concerns the informational measure "entropy" -- or, to look at it the other way around, the --redundancy -- of English text considered as a string of words. Thus both studies bear upon the amount of memory required to store library information: the first with indexes, the second with actual text.
 
-###On the Length of a Class of Serial Files
+### On the Length of a Class of Serial Files
 
 From one point of view, the over-all organization and concept of a library or of a procognitive system is a more important thing to grasp, or to improve, than is the efficiency of a low-level "detail" function. On the other hand, a few functions that appear from one point of view to be mere details, to occupy low levels in the over-all system, are seen from another point of view to be both basic and ubiquitous. One of these functions that looks like a technical detail from one standpoint and like something very basic and general from another is the encoding of elements of information for storage in a digital memory. Let us, for the purposes of this discussion, adopt the point of view from which it seems important. As soon as we do that we may be prepared to examine subcategories, and one of the most conspicuous of these is the subcategory that includes catalogues and indexes. The study to be summarized deals with such files of information.
 
@@ -20,7 +20,7 @@ In his work on coding efficiency, Grignetti also examined the notion that produc
 
 The preliminary inquiries just described led Grignetti to look for a truly efficient coding system for terms (1964). He found one. He calls it the "combinational code." It is fairly easy to construct a combinational code. First, one has to decide the maximum number of terms that will be associated with an item, say, five. Second, he examines the list of legal terms, numbers the individual terms, and makes up all the possible combinations of term numbers, taken five or fewer at a time. Third, he orders the numbers corresponding to the terms of each combination (each set of five or fewer) in a sequence of increasing magnitude. Fourth, he reorders the list of combinations according to a criterion that takes into account primarily the magnitude of the largest number in the subset but also, secondarily, the number of numbers in the subset. Finally, he assigns integers in increasing sequence to the members of the reordered list. Grignetti gives an analytical procedure for encoding and decoding. He points out that the procedure does not have to be changed, and that existing code numbers do not have to be altered, when new terms are added to the list of legal terms. Finally, he shows that the combinational code is the shortest possible code.
 
-###Entropy of Words in Printed English
+### Entropy of Words in Printed English
 
 Grignetti's interest was attracted to the question of the representational efficiency of direct encodings of the strings of words that constitute text by the consideration, discussed in Part I, that storage of the body of knowledge in processible memories will be an important basis for procognitive systems (Grignetti, 1964). In order to estimate the representational efiiciency, it is natural to compare determinations of the number of bits required to store a typical segment of text with estimates of the actual (Shannon-Wiener) information content of the text. The classical estimate of the information measure of a typical word of text is the one made by Shannon in 1951 on the assumption that the frequency of occurrence of word types is sufficiently approximated by Zipf's famous law. Shannon's estimate of the information measure, or entropy, was 11. 8 2 bits per word. However, Bemer (1960), using roughly the approximation that Shannon used, calculated that words could be stored, on the average, in 10.76 bits of memory space -- with the aid of a compression code that was obviously not optimal. That led Grignetti to examine Shannon's results closely.
 

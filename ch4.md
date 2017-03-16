@@ -1,6 +1,6 @@
-#CHAPTER FOUR
+# CHAPTER FOUR
 
-##Man-Computer Interaction in Procognitive Systems
+## Man-Computer Interaction in Procognitive Systems
 
 In the foregoing chapters, the concept of the procognitive system has been approached and developed from several different points of view. Common to these points of view has been the fundamental purpose, to improve the usefulness and to promote the use of the body of knowledge. Also common to the several points of view has been the central methodological theme, that the purpose can best be achieved through intimate interaction among men, computers, and the body of knowledge. Though we shall use the convenient phrase, "man-computer interaction," it should be kept in mind that it is an abbreviation and that the body of knowledge is a coordinate partner of the men and the computers.
 
@@ -10,7 +10,7 @@ The traditional approach, which allocates some functions to men and others to ma
 
 Despite the artificiahty of division, we shall divide the discussion of man-computer interaction, for convenience, into three parts: (1) what is often called the man-machine interface, the physical medium through which the interactions take place, (2) the language aspects of man-computer interaction, and (3) a look at the total process as an adaptive, self-organizing process. These three sections re-examine some ideas already introduced and fit some new elements into the picture.
 
-###The Physical "Intermedium"
+### The Physical "Intermedium"
 
 Early in our study of man-computer interaction, we became dissatisfied with the term, "man-machine interface." "Interface," with its connotation of a mere surface, a plane of separation between the man and the machine, focuses attention on the caps of the typewriter keys, the screen of the cathode-ray tube, and the console lights that wink and flicker, but not on the human operator's repertory of skilled reactions and not on the input-output programs of the computer. The crucial regions for research and development seem to lie on both sides of the literal interface. In order to remind ourselves continually that our concern permeates the whole medium of interaction, we have avoided "interface" and have used, instead, "intermedium."
 
@@ -18,7 +18,7 @@ The man-computer intermedium subsumes the computer's displays and the mechanisms
 
 An important part of the physical intermedium is the user's station, a "console" of the kind described in an earlier chapter. However, the intermedium extends beyond the console to include the user's entire work space and the physical aspects of his personal documentation system and perhaps even his laboratory system or his application system. We shall not examine those extensions in detail, but that does not mean that we consider them unimportant.
 
-####The Oscilloscope-and-Light-Pen Schema
+#### The Oscilloscope-and-Light-Pen Schema
 
 According to the argument set forth in the introduction, it is natural to think in terms of familiar schemata, but it is necessary to abstract from them, or to break them down and recombine them into new configurations, always on the lookout for new elements, if one is to progress. One of the two most flexible and promising display-control systems provided by the current technology is the combination of oscilloscope and light pen that has figured in much of our discussion. That combination is a source of very useful schemata. It is also a source of intense frustration.
 
@@ -47,7 +47,7 @@ A working version of another component of the schema we have been discussing is 
 
 In several military display systems, projection of photographic "slides" is combined with display generation by computer. The slides provide a convenient and economical way of maintaining the static part of the display pattern, which is often a reference grid or a map. A few of the systems provide means for photographing computer-posted displays and then redisplaying the information from slides. We think that, should such an arrangement be produced at low cost, it would find widespread use (7) in procognitive systems.
 
-####The typewriter schema
+#### The typewriter schema
 
 The second main area in which improvement of controls and displays is required is the area of alphanumeric keyboards and hard-copy displays. Those devices are obviously important for the future of procognitive systems.
 
@@ -67,7 +67,7 @@ The fourth schema is offered by devices commercially available but not in widesp
 
 The final schema in the typewriter field is the "Stenotype." The component that seems to be of most value, for these purposes, is simultaneous multiple key pressing. If it turns out, as seems likely, that very large ensembles of characters are desirable in man-computer interaction with the body of knowledge, then it will become much more important than it is now to be able to specify the desired character by pressing a pattern of keys on a small keyboard. That is a much better solution than pressing a single key on a keyboard with several thousand keys.
 
-####Displays for group-computer interaction
+#### Displays for group-computer interaction
 
 Because our thinking is anchored in familiar experiences, we are inchned to think of interaction between men and procognitive systems as a collection of dyadic man-computer interactions. More and more, however, the problems of science, technology, industry, and government are being solved by groups of men rather than by individuals. Although the "team approach" is a topic of controversy in some fields, its value has been proven in others. Consideration should be given to the development of tools and techniques to facilitate group interaction with the body of knowledge.
 
@@ -77,7 +77,7 @@ In procognitive systems based on individual consoles, the main items of equipmen
 
 In a procognitive system with group displays (second approach) one would expect to see large-scale displays similar in principle to the individual display screen already discussed, even with derivatives of the light pen to provide communication between the human members of the team and the computer. The most significant characteristic of the group display seems to us to be resolution. The total number of resolvable points is no greater in the large-scale kinematic displays available at present than it is in the smaller individual displays. In some largescale static displays, such as wall maps, however, there is high resolution, and in them the advantage of size is apparent. On a good wall map, one can see the general features of a continent from the middle of the room. In order to examine the boundaries of countries or states, it is necessary only to step a little closer. From a normal reading distance, the names of cities and towns can be made out and the courses of rivers can be followed. It is interesting to extrapolate to very high resolution and dynamic presentation. If display capabilities should increase as rapidly as memory capabihties, one may someday watch a display on a very large wall, examine the weather situation in the Midwest, and then with a magnifying glass follow the movement of an individual automobile from Bethesda to the Pentagon, reading the names of the streets and highways along which it moves. It seems to us that there is some merit in trying to develop such large-scale, high-resolution dynamic displays for groupcomputer interaction, though at the same time we appreciate the difficulty of the technical problems involved.
 
-####Consoles and work spaces
+#### Consoles and work spaces
 
 The design of consoles and the arrangement of work spaces is not likely to be regarded as an exciting part of Ubrary planning, but it is an essential step in overcoming what C. W. Churchman calls the "brain-desk barrier." During the course of our experience with facilities for man-computer interaction, the point was driven home to us that convenient arrangement of the elements of the physical intermedium is an extremely important factor in the determination of the effectiveness of the interaction and not something readily purchased or easily achieved. The individual ingredients of the current difficulty of man-computer interaction are trivial in themselves, but they add up to a significant total.
 
@@ -87,7 +87,7 @@ In the computer-posted displays that we have seen, the oscilloscope screen stand
 
 The other elements of difficulty are of the same general nature: Light pens are too thick and heavy for facile writing; they could be and should be the size and weight of ordinary pens. Conventional "Hne printers" have no lower-case letters; it is difficult to read long passages in capital letters. One has to turn the lights out to read the oscilloscope and then turn them back on to read print or typescript. And so forth. Each individual difficulty can be remedied easily, but it may take a strong, well-organized effort to perfect all the necessary elements and combine them into an effective physical intermedium.
 
-###Man-Computer Interaction Languages
+### Man-Computer Interaction Languages
 
 If the problems of the physical intermedium of mancomputer interaction are lacking in intellectual challenge, the problems of language for man-computer interaction abound in it. The entire spectrum of language from binary machine code to the great natural languages will be involved in man's interaction with procognitive systems.
 
@@ -96,7 +96,7 @@ We may distinguish four different involvements of language in a neolibrary proco
 The science of applied linguistics is so new, and formal languages designed to facilitate the programming of computers are burgeoning so fast, that it is difficult to summarize the present situation and almost impossible to make a long-term projection worthy of confidence. This
 part of the discussion, therefore, is confined to a brief examination of the roles of language in the four areas of man-computer interaction.
 
-####Programming language
+#### Programming language
 
 Even after it has been developed and is in operation, the procognitive system of the year 1994 has a continuing need for programming specialists. Their task is, essentially, to maintain and improve the basic programs of the system. Requirements arise that cannot be met effectively without making alterations in the basic system programs. To change even one short statement in a large system of programs is a serious matter, to be undertaken only by the most skilled and experienced professional programmers. The programmers of the procognitive system, therefore, plan modifications carefully, test them thoroughly outside the main stream of operation of the system, and then monitor the situation closely when they introduce the modifications into actual operation.
 
@@ -168,7 +168,7 @@ In the foregoing account, attention was focused on the programming system and th
 
 The example was intended to illustrate how closely interwoven are the threads of hardware, system design, programming technique, and programming language. It touched also upon the capabihty of the programming system to interrelate the efforts of members of the system programming team.
 
-####Organizing language
+#### Organizing language
 
 The system specialists in their continual effort to improve the organization of the body of knowledge and the usefulness of the procognitive system must deal with a variety of languages and procedures. Whereas the language of the programming system dealt with programs written in a consistent, high-level programming language, the "organizing language" dealt with documents written in the various natural lan^ua^es, with mathematical models and computer-program models, with computer programs themselves, and -- most intensively -- with large, coherent systemizations of knowledge represented in the "representation language" that constitutes the foundation of the question-answering system. Associated with each of these diverse objects is a set of information structures and procedures with which the organizing language must resonate. Therefore, the organizing language is divided into parts, any one of which may be brought into play almost instantly by any one of the system specialists who can direct it on the task with which he is concerned.
 
@@ -240,7 +240,7 @@ In the foregoing series of commands (which in practice would have been intersper
 
 System specialists have many other tasks besides the two that have been discussed. They preside over the introduction, into the top-echelon representation of the body of knowledge, of those contributions that are locally organized and tested in the second-echelon centers. They call to the attention of experts in the various substantive fields the correlations and systematizations they find plausible in their continual examination of the body of knowledge, and they work with the substantive experts in reorganizing the representations of substantive areas. They seek continually to improve the representation language. Approximately once each decade they have to adapt the representation to a new and improved hardware base. In so doing, they work closely with the system programmers. Indeed, there are some system specialists who are programmers, and some programmers who are system specialists. There is no sharp line between the two, any more than there is a sharp Hne between system speciaHsts and specialists in substantive areas of science and technology.
 
-####User-oriented languages
+#### User-oriented languages
 
 The existence of so very many subfields of science and technology, each with its local jargon, its own set of frequently occurring operations, and its own preferences for data structures and formats, makes it necessary to have many different user-oriented languages. However, there is a homogeneity that underlies the diversity. We have seen the basis for this underlying homogeneity in our discussion of programming language and organizing language. The homogeneity is inherent in the fact that there are only a few syntactic classes, only a few dozen information structures, and only about a hundred *kinds* of operation -- though there are very many different operations -- in the entire spectrum of activities of the procognitive system. The various field-oriented and problem-oriented languages employed by the substantive users of the system are therefore all related, one to another, and they are similar in their basic essentials to the languages used by the programmer and the system speciahst.
 
@@ -277,7 +277,7 @@ The most economical approach to that objective appears to be to direct all the o
 
 What is needed, we believe, is a synthesis of the good features of the several approaches that have been mentioned in the foresoins; discussion. In order to control complex processes, an on-line interaction language must have a sophisticated syntax and a large vocabulary. At the same time, to cater to the user's convenience, it should minimize the requirement for complex or manifold control actions, and it should encourage the kind of convergence upon understanding achieved in conversation. To facilitate learning, and to promote efficient utilization of programs, on-line interaction languages should be compatible with one another and should fit together into a coherent system.
 
-####Representation language
+#### Representation language
 
 The representation of information for storage and retrieval has already been discussed at length. Here we merely reiterate our conviction that both formalization and sophistication of language seem important for effective representation and efficient processing of a large corpus. We suspect that "the" representation language, if a single representation language ever becomes dominant over all its competitors, will be essentially a language system. It will have several sublanguages, specialized for different applications. Some of them may have as many syntactic categories as the natural languages and will distinguish among several thousand sharply defined semantic relations. Some of them may "understand" the complex interrelations among the semantic relations and the syntactic categories and deal competently with several dozen clearly defined information structures. Others will be simpler but less powerful.
 
@@ -287,7 +287,7 @@ The over-all language will be a system because all the sublanguages will fall wi
 
 Meanwhile, every effort should be made to find a way out of the present chaos of fragmentary and incompatible schemes for representation. Standardization of terms and formats will doubtless help. The main hope, however, appears to lie in the development of community computing systems. The economic impracticality of having a different system for every user will force convergence. There will be an active market place and a strong incentive to form coalitions. Perhaps one coalition will become a monopoly. Monopoly should not be allowed to stifle research on languages and representations, but it should be encouraged to foster coherence within the operating system.
 
-###Adaptive Self-Organization in Man-Computer Interaction
+### Adaptive Self-Organization in Man-Computer Interaction
 
 In a sense, the whole of the procognitive system and its use is an adaptive, self-organizing process. The adaptive, self-organizing system includes, of course, the specialist personnel and the substantive users. One of the main goals to be sought through adaptive self-organization is recursive: it is increased effectiveness in growing, developing, adapting, and organizing. The other main goal, of course, is increased effectiveness in serving the substantive users.
 

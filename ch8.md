@@ -1,6 +1,6 @@
-#CHAPTER EIGHT
+# CHAPTER EIGHT
 
-##Libraries and Question-Answering Systems
+## Libraries and Question-Answering Systems
 
 Marill's (1963) REPORT, "Libraries and QuestionAnswering Systems," laid the groundwork for subsequent research on question-answering systems. The report consists of three parts:
 

@@ -1,4 +1,4 @@
-#Preface
+# Preface
 
 The study on which this report is based was sponsored by the Council on Library Resources, Inc., and conducted by Bolt Beranek and Newman Inc., between November 1961 and November 1963. I acknowledge with deep appreciation the contributions of inspiration, thought, fact, and effort made by members of the two organizations.
 

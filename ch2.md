@@ -1,10 +1,10 @@
-#CHAPTER TWO
+# CHAPTER TWO
 
-##Aims, Requirements, Plans, and Criteria for Procognitive Systems
+## Aims, Requirements, Plans, and Criteria for Procognitive Systems
 
 Broadly speaking, the aims of procognitive systems are to promote and facilitate the acquisition, organization, and use of knowledge. Let us examine these broad aims, and some of the general requirements associated with them, before moving on to more specific discussion of plans and criteria.
 
-###Acquisition of Knowledge
+### Acquisition of Knowledge
 
 The acquisition of knowledge -- the initial apprehension of increments to the fund of knowledge -- involves the recording and representation of events. It involves also a selective activity, directed from within the existing body of knowledge, and analyzing and organizing activities relating the increment to the existing body of knowledge. Both the acquisitive and the interpretive aspects are recognized, and seen to play strongly interactive roles, in "experience" and in "experimentation." However, although the interpretive aspects are included within it, the acquisitive aspects are largely excluded from the presentday concept of library. That is to say, when a library acquires an increment to its holding, it acquires the increment from a publisher, not from "primary nature."
 
@@ -16,7 +16,7 @@ To anchor the foregoing general consideration in a slightly more specific contex
 investigate further their significance in relation to other parts of the body of knowledge. Thus the separation of library from laboratory forces the use of "batching" procedures in the acquisition of knowledge and leads, at best, to the collection -- in isolation from concurrent processes of acquisition, organization, and application -- of large, monolithic masses of data. At worst, the data are collected, not only in isolation from these concurrent processes, but also in isolation from one another, and the result is a chaos of miscellaneous individual cases.
 The difficulties of integrating the results of many simultaneous research projects that operate with very loose linkage to one another and to the body of knowledge is at present the object of much concern, particularly in the field of pharmaceutical research.
 
-###Organization of Knowledge
+### Organization of Knowledge
 
 We have referred repeatedly to "the fund of knowledge," "the body of knowledge," and "the corpus." The most concrete schemata that are useful in shaping the concepts associated with those terms are the schemata that represent the strings of alphanumeric characters, and the associated diagrams, graphs, pictures, and so forth, that make up the documents that are preserved in recognized repositories. However, such simple, concrete schemata are not in themselves sufficient. Neuroanatomy and neurophysiology, together with human behavior, provide less definite, but nevertheless necessary, supplementary schemata that enrich the concept. These complex arrangements of neuronal elements and processes accept diverse stimuli, including spoken and printed sentences, and somehow process and store them in ways that support the drawing of inferences and the answering of questions; and though these responses are often imprecise, they are usually more appropriate to actual demands than mere reinstatement of past inputs could ever hope to be.
 
@@ -26,7 +26,7 @@ In organizing knowledge, just as in acquiring knowledge, it would seem desirable
 
 One part of the concept of organization, called "memory organization," deals with the design of memory structures and systems, as distinct from structures and systems of information or knowledge. Its aim is to achieve two resonances or congruences: (1) between the memory and the information patterns that are likely to be stored in it, and (2) between the memory and the requests (e.g., questions) that are likely to be directed to it.
 
-###Use of Knowledge
+### Use of Knowledge
 
 Knowledge is used in directing the further advancement and organization of knowledge, in guiding the development of technology, and in carrying out most of the activities of the arts and the professions and of business, industry, and government. That is to say, the fund of knowledge finds almost continual and universal application. Its recursive applications have been mentioned under the headings. Acquisition of Knowledge and Organization of Knowledge. They require more direct lines of information flow than are now available, lines that may be controlled by, but do not flow exclusively through, human beings.
 
@@ -37,7 +37,7 @@ In general, as Fig. 2 suggests, it should be possible to transfer, directly from
 [Fig2](fig2.png) Fig. 2. (a) Simplified schematic representation illustrating the flow of information in present-day applications of the fund of knowledge *K*. Two applications. *A<sub>1</sub>*, and *A<sub>2</sub>*, are represented, each made by a human being *H<sub>1</sub>* working mainly through an application system *S<sub>1</sub>*. The thickness of the lines represents the amount of information flow. All the information flows through the human beings. (b) The situation that would prevail if. through the development of a procognitive system, the fund of knowledge were extended into intimate interactions (represented by the flared projections and their interfaces) with human users and their application systems. The dotted lines are control paths. Small amounts of control information are capable of directing the selection, transformation, and transmission of large amounts of substantive information. The human beings now function mainly as executives rather than mainly as relayers of information. For complex applications involving several or many men, schema *b* should be extended, of course, to provide communication and coordination through *S<sub>1</sub>* and to let upper echelons exert control over lower-echelon channels.
 
 
-###Processing versus Control and Monitoring of Processing
+### Processing versus Control and Monitoring of Processing
 
 In each of the three areas, acquisition, organization, and application, we are now greatly limited by the constraint that, whenever information flows into, within, or out of the main store of knowledge, it must pass through people. We shall not belabor the severity of the constraint. It is enough to note that a man, reading eight hours a day every work day, at a speed appropriate for novels, could just keep up with new "solid" contributions to a subfield of science or technology. It no longer seems likely that we can organize or distill or exploit the corpus by passing large parts of it through human brains. It is both our hypothesis and our conviction that people can handle the major part of their interaction with the fund of knowledge better by controlling and monitoring the processing of information than by handling all the detail directly themselves.
 
@@ -73,7 +73,7 @@ In any event, a basic part of the over-all aim for procognitive systems is to ge
 not have to do all the searching himself nor all the transforming, nor all the testing for matching or compatibility
 that is involved in creative use of knowledge. He will say what operations he wants performed upon what parts of the body of knowledge, he will see whether the result makes sense, and then he will decide what to have done next. Some of his work will involve simultaneous interaction with colleagues and with the fund of stored knowledge. Nothing he does and nothing they do will impair the usefulness of the fund to others. \* (\* footnote: Except, of course, for the introduction of false information into the authenticated and organized core of the fund -- but the procognitive system will be better protected than the present system is against the introduction of false information, because of its more elaborate editing, correlating, and organizing procedures.) Hopefully, much that one user does in his interaction with the fund will make it more valuable to others.
 
-###Criteria for Procognitive Systems
+### Criteria for Procognitive Systems
 
 The set of criteria that should or must be met in the design and development of procognitive systems includes economic elements and elements relating to technical feasibility as well as elements reflecting the needs and desires of potential users. It includes also some elements that will be governed mainly by quasi-philosophical attitudes toward courses to be followed and goals to be sought by man and civilization. Finally, it includes the consideration that there must be a way "to get there from here," whether the course be evolutionary (the expressed preference of many present-day system technologists) or revolutionary.
 
@@ -121,7 +121,7 @@ The list of criteria ends with two considerations that we think many users will 
 
 The foregoing criteria are set forth, we recognize, essentially as absolute desiderata, and not -- as system criteria should be -- as scales of measurement with relative weights, interdependent cutoff points, or other paraphernaha for use in optimization. The reason for stopping so far short of an explicit decision procedure is partly that it is very difficult to set up such a procedure for so complex a system, but mainly that it is too early to foresee the details of interaction among the decision factors. The foregoing lists are intended not to provide a complete mechanism for the evaluation of plans, but merely to invite discussion and emendation and to furnish a context for examination of the "plan" that follows.
 
-###Plan for a System to Mediate Interactions with the Fund of Knowledge
+### Plan for a System to Mediate Interactions with the Fund of Knowledge
 
 The plan to be presented here is not a plan to be implemented by a single organization. It is not a system design or a management plan. Rather, it is a rough outline of researches and developments, many of which will probably be carried out, plan or no plan, during the next several decades. The reason for setting forth such a plan is not to guide research and development, which would be presumptuous, but to provide a kind of checklist or scorecard for use in following the game. If the technology should take care of most of the items in the plan but fall behind on a few, then it might be worth while for an agency interested in the outcome to foster special efforts on the delinquent items.
 
@@ -131,7 +131,7 @@ Moreover, this plan is not a final plan or even a mature plan. Perhaps it should
 2. Approaches to realization of the proposed system
 through research, technology development, and system development.
 
-####Structure and functions of proposed system
+#### Structure and functions of proposed system
 
 The proposed procognitive system has a hierarchical structure of the kind mentioned earlier: system, subsystem, . . . component. It seems at first glance to be hierarchical also in another way: it has a top-echelon or central subsystem, several second-echelon or regional subsystems, many third-echelon or local subsystems, and very many fourth-echelon subsystems or user stations. Actually, however, as Fig. 3 illustrates, there are departures from the simple, treelike paradigm of a true hierarchy. First, for the sake of reliability and what the military calls "survivability," the top-echelon subsystem should be replicated. However, it may not be possible, or even desirable, to give the replicates all the capabilities of the main subsystem. Second, each third-level subsys- tem may be connected to any higher-level subsystem, and to more than one higher-level subsystem at a time. Technically speaking, that makes the structure a lattice instead of a hierarchy. Perhaps it will be best to call it simply a "network."
 
@@ -153,7 +153,7 @@ The number of centers in echelon 1 envisioned for a national \* (\* footnote: Th
 
 Ordinarily, a user will dial his own nearby third-echelon center and use its processing and memory facilities. His center will probably be holding some of his personal data or procedures in its store, and, in addition, using the local center will keep down the transmission costs. However, when a user wishes to work with a distant colleague, and to pool his personal data with those of his colleague, he can dial the remote center and request transmission of his data to it. \* (\* footnote: Other arrangements for cooperative work may prove superior to the one suggested. Our purpose here is merely to note that the need will exist and can be met.)
 
-####A hypothetical example of use of the procognitive system
+#### A hypothetical example of use of the procognitive system
 
 Perhaps the best way to consolidate the picture that we have been projecting, one part at a time, is to describe a series of interactions, between the system and a user who is working on a substantive problem that requires access to, and manipulation of, the fund of knowledge. Let us choose an example that will exercise the system in several ways -- and try to compensate for the complexity thus necessarily introduced by describing the interaction in detail only in the first episode, and then moving to a higher level of abstraction. Let us, for the sake of brevity, refer to the system as "system" and to the user as "L" And, finally, let us use in the example a fairly straightforward descriptor-based approach to document retrieval, even though that facet of the art should be greatly advanced by 1994, and even though we shall not hesitate in the same example to assume a question-answering capability that is much farther advanced than the document-retrieval capabiHty.
 
@@ -334,17 +334,17 @@ The foregoing is doubtless enough to suggest the nature of the interaction with 
 
 Perhaps we did not rely heavily enough, in the example and in the study, on truly sophisticated contributions from the inanimate components of the system. In respect of that possibility, we adopted a deliberately and admittedly conservative attitude. We expect that computers will be capable of making quite "intelligent" contributions by 1994, to take the date assumed in the example, but we prefer not to count on it. If valuable contributions can be made by "artificial intelligences" of that date, there will be room for them, as well as the men to monitor them, in our basic system schema. On the other hand, if it should turn out that the problems involved in developing significant artificial intelligence are extremely difficult, or that society rejects the whole idea of artificial intelligence as a defiance of God or a threat to man, then it will be good not to have counted on much help from software approaches that are not yet well enough understood to support extrapolation. This conservative attitude seems appropriate for the software area but not for the hardware area.
 
-###Steps toward Realization of Procognitive Systems
+### Steps toward Realization of Procognitive Systems
 
 Our information technology is not yet capable of constructing a significant, practical system of the type we have been discussing. If it were generally agreed, as we think it should be, that such a system is worth striving for, then it would be desirable to have an implementation program. The first part of such a program should not concern itself directly with system development. It should foster advancement of relevant sectors of technology. \* (\* footnote: Science is also involved, of course, but for the sake of brevity "technology" is used in a very broad sense in this part of the discussion)
 
 Let us assume then -- though without insisting -- that it is in the interest of society to accelerate the advances. What particular things should be done?
 
-####Overcome interdisciplinary barriers
+#### Overcome interdisciplinary barriers
 
 One of the first things to do, according to our study, is to break down the barriers that separate the potentially contributory disciplines. Among the disciplines relevant to the development of procognitive systems are (1) the library sciences, including the part of information storage and retrieval associated with the field of documentation, (2) the computer sciences, including both hardware and software aspects and the part of information storage and retrieval associated with computing, (3) the system sciences, which deal with the whole spectrum of problems involved in the design and development of systems, and (4) the behavioral and social sciences, parts of which are somewhat (and should be more) concerned with how people obtain and use information and knowledge. (The foregoing is not, of course, an exhaustive list; it even omits mathematical linguistics and mathematical logic, both of which are fundamental to the analysis and transformation of recorded knowledge.) The barriers that separate the relevant disciplines appear to be strong. There is, of course, some multidisciplinary work, and a little of it is excellent. On the whole, however, the potentially contributory disciplines are not effectively conjoined. One of the most necessary steps toward realization of procognitive systems is to promote positive interaction among them.
 
-####Develop the concept of relevance network
+#### Develop the concept of relevance network
 
 A second fundamental step is to determine basic characteristics of the relevance network that interrelates the elements of the fund of knowledge. The information elements of a sentence are interrelated by syntactic structures and semantic Unks. The main syntactic structures are obviously local; they scarcely span the spaces between sentences. Correspondence between syntactic structures is of some help in determining the type and degree of relation between two widely separated segments of text, but the main clues to the relations that interconnect diverse parts of the corpus of recorded information are semantic.
 
@@ -366,7 +366,7 @@ In order to determine the foregoing quantities precisely, one would have to carr
 
 In the foregoing discussion, the index *L* was based upon "lengths" in a space defined to correspond with a linear classification scheme. Obviously, that assumption, and many other parts of the suggested picture, need to be sharpened. One should not adopt the first paradigm to come to mind, but should explore the implications of various alternative properties and metrics of the relevance space. Moreover, one should regard the lengths of links and the metrics of the space merely as preliminary working conveniences, for all the lengths within a part of the corpus become equal when that part is loaded into a random-access memory, and the distance of that part from the other parts may, for practical purposes, become infinite. It is of paramount importance not to think of relevance as a vague, unanalyzed relation, but rather to try to distinguish among definite types and degrees of relevance. With such development, the concept of relevance networks might progress from its present unelaborated form to a systematic, analytic paradigm for organization of the body of knowledge.
 
-####Develop advanced memory systems
+#### Develop advanced memory systems
 
 The most necessary hardware development appears to be in the area of memory, which we have already discussed. Procognitive systems will pose requirements for very large memories and for advanced memory organizations. Unless an unexpected breakthrough reconciles fast random access with very large capacity, there will be a need for memories that effect various compromises between those desiderata. They will comprise the echelons
 of the memory hierarchy we have mentioned. It will be necessary to develop techniques for transferring information on demand, and in anticipation of demand, from the slow, more voluminous levels of the hierarchy to the faster, more readily processible levels.
@@ -379,22 +379,22 @@ Our earlier discussion of retrieval with the aid of descriptors and thesauri sug
 
 In the body of knowledge, relations of high order appear to prevail over simple associations between paired elements. That consideration suggests that we should not content ourselves with simple associative memories, but should press forward in an attempt to understand and devise high-order relational memories.
 
-####Develop fast processors consistent with advanced memory structure
+#### Develop fast processors consistent with advanced memory structure
 
 Memory, of course, is only part of the picture. With each development in memory structure must come a development in processors. For example, now that "list processing" has been employed for several years, computers are appearing on the market with instruction codes that implement directly most of the manipulations of list structures that were formerly handled indirectly through programming. It will be desirable eventually to have special instructions for manipulating "relational nets" or whatever information structures prove most useful in representing and organizing the fund of knowledge.
 
-####Develop advanced displays and controls for man-computer interaction
+#### Develop advanced displays and controls for man-computer interaction
 
 Some of the projected devices that promise to facilitate interaction between men and the body of knowledge were described on pp. 45-46. Most of the capabilities that were assumed in the example can be demonstrated now, but only crudely, and one feature at a time. It will require major research and engineering efforts to implement the several functions with the required degrees of convenience, legibility, reliabiUty, and economy. Industry has not devoted as much effort to development of devices and techniques for on-line man-computer interaction as it has to development of other classes of computer hardware and software. It seems likely, indeed, that industry will require more special prodding and support in the displaycontrol area than in the other relevant areas of computer technology.
 
-####Develop procedure-oriented, field-oriented, and user-oriented languages
+#### Develop procedure-oriented, field-oriented, and user-oriented languages
 
 The design of special-purpose languages is advancing rapidly, but it has a long way to go. There are now sev-
 eral procedure-oriented languages for the preparation of computer programs (1) to solve scientific problems, (2) to process business data, and (3) to handle military information. Examples are: (1) ALGOL, FORTRAN, MAD, MADTRAN, SMALGOL, BALGOL, and DECAL; (2) COBOL and FACT; and (3) JOVIAL and NELIAC. In addition, there are languages oriented toward (4) exploitation of list processing, (5) simulation techniques, and (6) data bases. Examples are: (4) IPL-V, LISP, KLS, and SLIP; (5) SIMSCRIPT, SIMPAC, CLS, MILITRAN, SOL, SIMULA, and GPSS; and (6) ADAM, COLINGO, and LUCID. Finally, there are languages oriented toward the problems of particular fields of research and engineering, for example, COGOSTRESS and (for civil engineering), and Sketchpad and APT (for mechanical design).
 
 It will be absolutely necessary, if an effective procognitive system is ever to be achieved, to have excellent languages with which to control processing and application of the body of knowledge. There must be at least one (and preferably there should be only one) general, procedure-oriented language for use by specialists. There must be a large number of convenient, compatible field-oriented languages for the substantive users. From the present point of view, it seems best not to have an independent language for each one of the various processing techniques and memory structures that will be employed in the system, but to embed all such languages within the procedure-oriented and field-oriented languages -- as SLIP (for list processing) is embedded within FORTRAN (Weizenbaum, 1963).
 
-####Advance the understanding of machine processing of natural languages
+#### Advance the understanding of machine processing of natural languages
 
 To what extent should the language employed in the organization, direction, and use of procognitive systems resemble natural languages such as English? That question requires much study. If the answer should be, "Very closely," the implementation will require much research. Indeed, much research on computer processing of natural language will be required in any event, for the text of the existing corpus is largely in the form of natural language, and the body of knowledge will almost surely have to be converted into some more compact form in the interests of economy of storage, convenience of organization, and effectiveness of retrieval.
 
@@ -402,7 +402,7 @@ In the organization of the corpus, moreover, it will surely be desirable to be a
 
 There appear to be two promising approaches to the rationalization of semantics. The first, which we have already mentioned briefly, involves formalization of semantic relations. The second, not yet mentioned, involves (1) the amassing of vast stores of detailed information about objects, people, situations, and the use of words, and (2) the development of heuristic methods of bringing the information to bear on the interpretation of text. As we see it now, researches along both these approaches should be fostered. The first is more likely to lead to compact representations and economic systems. Perhaps, however, only the second will prove capable of handling the "softer" half of the existing corpus.
 
-####Develop multiple-access computer systems
+#### Develop multiple-access computer systems
 
 The central role, in procognitive systems, of multiple access to large computers was emphasized in an earlier section. It seems vitally important to press on with the development of multiple-console computer systems, particularly in organizations in which creative potential users
 abound. As soon as it is feasible, moreover, multiple-console computer systems should be brought into contact with libraries. Perhaps they should be connected first to the card catalogues. Then they should be used in the development of descriptor-based retrieval systems. Almost certainly, the most promising way to develop procognitive systems is to foster their evolution from multiple-console computer systems -- to arrange things in such a way that much of the conceptual and software development will be carried out by substantive users of the systems.

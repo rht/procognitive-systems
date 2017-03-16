@@ -1,10 +1,10 @@
-#CHAPTER NINE
+# CHAPTER NINE
 
-##Studies of Computer Techniques and Procedures
+## Studies of Computer Techniques and Procedures
 
 The following eight studies are concerned with early steps along the course from present digital-computer system to future procognitive systems. Let us consider the studies in the order of their locations along that course. The first ones were intended merely to make it convenient to carry out some of the functions that are required in research on library and procognitive problems or in the efficient use of large collections of documents. The last ones in the sequence were intended to explore functions that we think will actually be involved in future procognitive systems.
 
-###An "Executive" Program to Facilitate the Use of the PDP-1 Computer
+### An "Executive" Program to Facilitate the Use of the PDP-1 Computer
 
 One of the first needs of the study was a computer program to facilitate the programming and use of the laboratory's digital computer. The computer is a small but excellent machine, Digital Equipment Corporation PDP-1, specialized to facilitate interaction with users who work "on line." The PDP-1 has an oscilloscope display with light pen, several electric typewriters, a set of programmable relays, an analogue-to-digital converter, and an assortment of switches and buttons. Its primary memory is small (8196 eighteen-bit words), but it is capable of transferring information rapidly between the primary memory and a secondary drum memory that holds about 90,000 eighteen-bit words. Associated with the computer are two magnetic-tape units. With the computer, it is possible to implement, in a preliminary and schematic way, several of the functions that were described in Part I as functions desirable in a procognitive system.
 
@@ -58,7 +58,7 @@ In the process of writing subroutines to handle substantive problems -- subrouti
 
 The easiest way to accomplish dynamic storage and transfer of subroutines, and to handle the associated bookkeeping, was to take care of it automatically through Exec's ability to examine calling sequences and subroutine headings. We did not make much progress toward that end during the course of the study. However, we did work with the problem enough to see the great convenience and power that reside in a coherent structure of computer subroutines and a largely automatic arrangement for calling them and transferring information among them. Evidently, the more sophisticated the arrangements, the larger the fraction of the subroutines that will be intrinsic to the arrangements. We visualize a system in a continual process of development, with a set of intrinsic subroutines, a set of extrinsic subroutines, and a continual flow from the extrinsic set to the intrinsic set as more and more functions are brought within the scope and capability of the system.
 
-###On-Line Man-Computer Communication
+### On-Line Man-Computer Communication
 
 "On-Line Man-Computer Communication" by Licklider and Clark (1962) discusses several problems in, and several steps toward the improvement of, interaction of men and computers. These include problems and developments in the use of computers as aids in teaching and in learning and as a basis for group cooperation in the planning and design of buildings. The part of the paper that stemmed from the present study was the development of a pair of programs, referred to earlier as "Introspection," that are closely connected with the lastdescribed major function of Exec.
 
@@ -76,7 +76,7 @@ When Memory Course is used to display the "trajectory" through memory followed b
 
 Memory Course represents loops, as just suggested, by tracing out a closed course. When the program transfers control to a subroutine, a line jumps out from the dot that corresponds to the call and leads to the dot that corresponds to the beginning of the subroutine. Thus, Memory Course provides a simple, maplike representation of the program structure. One can see where the various subroutines are, how long they operate, when they receive their calls, and when they return control to their callers. If an error occurs, either in the computer or in the program, control is very likely to be transferred to an inappropriate location. If the user knows the structure of his program, either from having programmed it or from experience operating it, he sees that something unexpected has happened. He then looks back to the beginning of the unexpected Hne and determines precisely the location of the register within which the error originated. Having done that, he typically reruns the program, following its course very carefully as it approaches the critical point. If the error recurs, he reruns the program once more, this time stopping it at various points ahead of the critical one and using other means to examine the instructions, addresses, and data associated with those points.
 
-###A File Inverter
+### A File Inverter
 
 The project to be described next was aimed, like Exec, at increasing the convenience and effectiveness with which the computer could be used in the study of library and procognitive problems. This project, however, had a much sharper focus than Exec. Its aim was simply to implement the operation called "file inversion."
 
@@ -86,7 +86,7 @@ The "File Inverter" is a computer program, written in DECAL by Grignetti (1963Z?
 
 The file-inverting program includes a subprogram that alphabetizes the entries. If it is used to invert a file consisting of terms associated with alphabetized items, it yields a file of items associated with alphabetized terms. If the items consist of the bibliographic citations of documents, and if the terms are the key words of the titles of the documents, then the result obtained by applying the file-inverting program is a kind of "permuted title index." Grignetti's program includes a subprogram that facilitates the selection of key words from titles (or from abstracts or from texts). The subprogram selects from a string of words all those that do not appear upon a list of words to be excluded. The list of words to be excluded ordinarily contains the "function" words and, also, words that have been found not to discriminate.
 
-###An Automated Card Catalogue
+### An Automated Card Catalogue
 
 Using parts of the file-inverting program, Grignetti (1963b) prepared a program that automates some of the functions involved in using an ordinary card index. The kind of card index toward which the program is oriented is not precisely the kind used in most libraries. It differs mainly in assuming that each card will contain a series of descriptive terms. Such card indexes are found more frequently in documentation centers that specialize in laboratory technical reports and reprints than in libraries of books and serials.
 
@@ -103,7 +103,7 @@ Grignetti's program makes it convenient for the user to correct his retrieval pr
 
 The user then types y for "yes" or n for "no." The program remembers this answer and does not bother the user again with the same question. That may be convenient when the user is deafing with names he does not know very well, but it leads to comphcations that will have to be settled through further programming. Probably it will be better to correct the prescription than to perpetuate the indiscrimination.
 
-#A System to Facilitate the Study of Documents
+# A System to Facilitate the Study of Documents
 
 The two programs described in the preceding sections are related to, and are intended for incorporation into, a system to facilitate the retrieval and study of documents. The "study" part of the over-all system is described in a report by Bobrow, Kain, Raphael, and Licklider (1963).
 
@@ -126,7 +126,7 @@ Among the functions provided by Symbiont are the following:
 
 The search routines used in finding desired passages of text operate with three sets of retrieval terms. The user specifies the terms of each set initially through the typewriter. All the terms of a subset are considered equivalent during the search, and the search is satisfied insofar as that subset is concerned if any one of the terms is encountered in the text. The user can specify whether he wants to find a passage in which at least one of the terms of one of the sets occurs, or a passage in which at least one of the terms of each of two of the sets occurs, and so forth. Even though this implementation is primitive, it is evident from preliminary experiments with Symbiont that automation of the function of searching for "ideas" will be a very powerful aid in technical study. Machine aid in manipulating graphs will also be very helpful.
 
-###Associative Chaining as an Information-Retrieval Technique
+### Associative Chaining as an Information-Retrieval Technique
 
 Most of the information-retrieval systems that have actually been developed, and even most of those that have been subjected to intensive research, retrieve unitary elements of information, such as documents, paragraphs, or sentences. A basic point in Marill's (1963) paper, discussed in Chapter 8, is that for many purposes the retrieval of a unitary part of the corpus is inadequate, and that what often is needed is an answer to a question that may have to be derived through deduction from elements of information scattered throughout the corpus. The associative chaining technique to be described briefly in this section is a step in Marill's direction. It does not go as far as the techniques described in the final two sections, but it does go beyond the single, unitary element of the corpus to explore "chains" of relation between one element of the corpus and another. When the relation between two items is direct, they are said to be connected by a first-order chain. When the relation between two items can be established only through the intermediary agency of a third item, the first two items are said to be connected by a chain of second order, and so forth.
 
@@ -144,7 +144,7 @@ In his exploration of the relations between graph theory and associative chainin
 
 The next step in the development of the concept of associative chaining, we think, should be an attempt to define the fundamental relatedness or relevance on which the "association" is based. Associative chaining has a natural connection with the relational networks described in Part I and with the semantic nets and question-answering systems studied by Marill and Black. The next step may, therefore, take the form of merging the chaining concept with the concepts underlying the relational and semantic nets and the question-answering systems.
 
-###Two Question-Answering Systems
+### Two Question-Answering Systems
 
 Marill's (1963) short paper on question-answering systems, described eariier, initiated a series of studies that involved a meld of symbolic logic and computer programming. Most of these studies were carried out by Black, who described them in a series of memoranda and a report (1963). The memoranda and the report share with the corpora of the question-answering systems a tight, terse, logical quality that makes them attractive to the logician and difficult for the nonlogician to understand. Following is an effort to summarize, without gross distortion, two of the principal accompHshments of the work on question-answering systems in a freer and less formal exposition. One might justify this aim by quoting a paragraph from Black's "Conclusions on QAS," a memorandum dated November 13, 1963:
 
@@ -297,7 +297,7 @@ how extremely deep and complex are the intellectual processes that one accepts a
 
 In short, it appears to us that the domain of questionanswering systems is an intellectually deep and technologically demanding area for research and development. As suggested, there is an extremely long way to go before useful answers can be deduced from extensive information bases at reasonable cost. On the other hand, it may well be that, in this area, each basic conceptual advance will be a long stride toward the procognitive systems we envision for man's future interaction with the fund of knowledge.
 
-###An Approach to Computer Processing of Natural Language
+### An Approach to Computer Processing of Natural Language
 
 This final project was pursued intensively during the first year of the study, but, for reasons not related to its degree of promise, it lay dormant during the second year. Although the project does not appear to be worth continuing in its present form, the following description may prove useful.
 

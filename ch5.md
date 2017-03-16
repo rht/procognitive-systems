@@ -1,6 +1,6 @@
-#CHAPTER FIVE
+# CHAPTER FIVE
 
-##Syntactic Analysis of Natural Language by Computer
+## Syntactic Analysis of Natural Language by Computer
 
 The relevance of automated syntactic analysis to library procognitive systems lies in machine processing, and in eventual machine "understanding," of naturallanguage text. There is no thought that syntactic analysis alone whether by man or machine is sufficient to provide a useful approximation to understanding. On the other hand, there is no doubt that appreciation of the syntactic structure of natural-language text is a part, and an important part, of the over-all problem. Accordingly, Bobrow (1963) surveyed the work that has been done, and is being done, toward automation of syntactic analysis of English.
 
